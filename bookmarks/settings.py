@@ -34,7 +34,7 @@ ALLOWED_HOSTS = [
     'riajulsite.com',
     'localhost',
     '127.0.0.1',
-    'f31cd2a9.ngrok.io',
+    'bookmarking.pythonanywhere.com',
 ]
 
 THUMBNAIL_DEBUG = True
