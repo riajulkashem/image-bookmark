@@ -2,7 +2,7 @@
 
 ### To Run Project 
 ``` 
-    git clone 
+    git clone https://github.com/RiajulKashem/image-bookmark.git
     cd image-bookmark
     virtualenv env
     sourch env\bin\active
@@ -16,3 +16,5 @@
 * Change images > templates > bookmarklet_laucher.js > src = your domain
 
 ### Screenshot
+
+![Dashboard](dashboard.png "Image Bookmark Dashboard")
